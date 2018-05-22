@@ -1,2 +1,0 @@
-# MyGit localrepo
-hi
