@@ -1,2 +1,2 @@
 # docker web image
-docker imges of apache httpd24
+docker image of apache httpd24
