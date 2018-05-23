@@ -2,7 +2,7 @@
 FROM centos:latest
 
 # 작성자 정보
-MAINTAINER 0.2 sysinfo@daum.net
+MAINTAINER 0.3 sysinfo@daum.net
 
 # Apache httpd 설치
 RUN ["yum", "-y", "install", "httpd"]
