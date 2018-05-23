@@ -1,2 +1,2 @@
-# lua
-git 및 github 공부용
+# docker web image
+docker imges of apache httpd24
