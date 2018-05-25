@@ -9,5 +9,3 @@ RUN ["yum", "-y", "install", "httpd"]
 
 # Apache httpd 실행
 CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
-
-EXPOSE 80
